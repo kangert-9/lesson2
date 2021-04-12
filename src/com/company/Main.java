@@ -4,9 +4,9 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        //convert();
-        //fil();
-        //multiply();
+        convert();
+        fil();
+        multiply();
         diagonal();
     }
 
