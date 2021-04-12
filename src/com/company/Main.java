@@ -50,7 +50,7 @@ public class Main {
     }
 
     public static void diagonal() {
-        //int ArraySize = 5;
+        //четвертое задание
         int[][] square = new int[5][5];
         for (int i = 0; i < square.length; i++) {
             for (int j = 0; j < square[i].length; j++) {
